@@ -97,7 +97,7 @@ This project is created to:
 ## 👨‍💻 Author
 
 **Ashwin Mali**
-B.Tech CSE (AI-ML)
+B.Tech CSE (AIML)
 
 ---
 
